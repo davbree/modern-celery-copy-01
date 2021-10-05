@@ -30,7 +30,7 @@
                 "text": "Hello",
                 "actions": [{
                     "label": "hey",
-                    "url": "https://www.stackbit.com"
+                    "url": "https://www.stackbit.com/"
                 }]
             }
         }
