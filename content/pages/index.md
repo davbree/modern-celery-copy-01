@@ -12,6 +12,39 @@ sections:
     contentAlignHoriz: left
     contentAlignVert: middle
     textAlign: left
+    variant: variant-b
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: Section Contact
+    text: Hello
+    form:
+      idAttr: lorem-ipsum
+      action: lorem-ipsum
+      destination: lorem-ipsum
+      fields: []
+      submitLabel: lorem-ipsum
+      type: FormBlock
+    feature:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
+    actions:
+      - label: Stackbit
+        url: 'https://www.stackbit.com'
+    type: ContactSection
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
     variant: variant-a
     badge:
       elementId: ''
